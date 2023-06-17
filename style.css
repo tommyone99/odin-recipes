@@ -11,7 +11,7 @@ h1
     font-size: 76px;
     text-align: center;
     width: 900px;
-    margin: 0px auto;
+    margin: 50px auto;
 }
 
 h3
@@ -65,6 +65,11 @@ p
     padding: 20px;
 }
 
+.segments .content
+{
+    margin-bottom: 60px;
+}
+
 .segments
 {
     width: 600px;
@@ -80,4 +85,9 @@ p
 {
     width: 700px;
     height: auto;
+    background-color: #bae8e8;
+    padding: 30px;
+    outline-offset: -32px;
+    outline: 2px solid #272343;
+    border: solid #272343 2px;
 }
